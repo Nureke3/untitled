@@ -1,2 +1,1 @@
-# untitled
-just a text
+TO_TIMESTAMP('2025-08-13T11:01:24.185', 'YYYY-MM-DD"T"HH24:MI:SS.FF')
